@@ -1,0 +1,2 @@
+# Paclint
+Pacscript linting bot
